@@ -2,5 +2,5 @@
 	path = frontend
 	url = https://github.com/9Aediter/frontend.git
 [submodule "backend"]
-  path = backend
-  url = https://github.com/yourusername/my-backend.git
+  	path = backend
+  	url = https://github.com/yourusername/my-backend.git
